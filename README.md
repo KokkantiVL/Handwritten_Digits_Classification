@@ -1,6 +1,6 @@
-# Handwritten Digits Classification Using Neural Networks
+# Handwritten Digits Classification
 
-This project is a programming assignment for **CSE474/574: Introduction to Machine Learning**. The goal is to implement a Multilayer Perceptron (MLP) Neural Network to classify handwritten digits from the MNIST dataset. The model is trained using feedforward and backpropagation techniques with L2 regularization and hyperparameter tuning.
+This project is a programming assignment for Machine Learning. The goal is to implement a Multilayer Perceptron (MLP) Neural Network to classify handwritten digits from the MNIST dataset. The model is trained using feedforward and backpropagation techniques with L2 regularization and hyperparameter tuning.
 
 ---
 
